@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: LazyPig - Klutch Edition
+## Version: 5.37
+## Notes: UI Enhancements
+## Author: Ogrisch and mrmr: Updated by Klutch
+## SavedVariables: LPCONFIG, LPMULTIBOX
+
+LazyPig.xml
